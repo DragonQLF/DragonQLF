@@ -10,10 +10,10 @@
 
 ## About
 
-Full-stack developer who believes great software demands precision, patience, and a relentless eye for detail. I work across the whole stack — from **Rust/Tauri desktop apps** to **Next.js SaaS platforms** — with a focus on AI integration, real-time systems, and 3D visualization.
+Full-stack developer who believes great software demands precision, patience, and a relentless eye for detail. I work across the whole stack - from **Rust/Tauri desktop apps** to **Next.js SaaS platforms** - with a focus on AI integration, real-time systems, and 3D visualization.
 
-- 🚀 [**ReportAi**](https://github.com/DragonQLF/ReportAi) — applied everything I'd learned into a production AI SaaS
-- 🌍 **Sendero** — AI camping trip planner with 3D maps, streaming chat & multi-tier caching
+- 🚀 [**ReportAi**](https://github.com/DragonQLF/ReportAi) - applied everything I'd learned into a production AI SaaS
+- 🌍 **Sendero** - AI camping trip planner with 3D maps, streaming chat & multi-tier caching
 - 🦀 Learning **Rust** systems programming & **WebGL shader** development
 - 💼 2× internship at **Seegno**
 - 🛠 12+ projects built
