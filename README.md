@@ -70,7 +70,7 @@ Full-stack developer who believes great software demands precision, patience, an
   <a href="https://github.com/DragonQLF/ReportAi">
     <img src="https://github-readme-stats-six-lime-16.vercel.app/api/pin/?username=DragonQLF&repo=ReportAi&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/DragonQLF/Sendero">
+  <a href="https://github.com/DragonQLF/Boilerplate">
     <img src="https://github-readme-stats-six-lime-16.vercel.app/api/pin/?username=DragonQLF&repo=Sendero&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/DragonQLF/WeatherApp">
